@@ -1,9 +1,5 @@
 # EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras.
 
-**Name:Boopathy S**
-
-**Reg no:2305003002**
-
 ### AIM
 
 To Implement-a-SimpleLSTM-using-TensorFlow-Keras
@@ -45,9 +41,9 @@ This helps understand how well the model learned the pattern and whether adjustm
 
 ### PROGRAM
 
-**Name:kunam poorna chnadra rao**
+**Name:Boopathy S**
 
-**Register Number:2305001012**
+**Register Number:2305003002**
 
 ~~~
 import numpy as np
