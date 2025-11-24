@@ -1,7 +1,8 @@
 # EX-8-Implement-a-SimpleLSTM-using-TensorFlow-Keras.
 
-##Name:Boopathy S
-##Reg no:2305003002
+**Name:Boopathy S**
+**##Reg no:2305003002**
+
 ### AIM
 
 To Implement-a-SimpleLSTM-using-TensorFlow-Keras
